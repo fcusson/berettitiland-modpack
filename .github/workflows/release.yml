@@ -43,6 +43,16 @@ jobs:
             echo "changed=false" >> $GITHUB_OUTPUT
           fi
 
+      - name: Extract changelog
+        if: steps.changed.outputs.changed == 'true'
+        id: changelog
+        run: |
+          VERSION=${{ steps.version.outputs.version }}
+          CHANGELOG=$(awk "/^## $VERSION$/{flag=1; next} /^## /{flag=0} flag" CHANGELOG.md)
+          echo "content<<EOF" >> $GITHUB_OUTPUT
+          echo "$CHANGELOG" >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+
       - name: Export modpack
         if: steps.changed.outputs.changed == 'true'
         run: packwiz modrinth export
@@ -54,6 +64,7 @@ jobs:
         with:
           tag_name: v${{ steps.version.outputs.version }}
           name: Berettitiland v${{ steps.version.outputs.version }}
+          body: ${{ steps.changelog.outputs.content }}
           files: "*.mrpack"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -64,6 +75,7 @@ jobs:
         with:
           tag_name: latest
           name: Latest
+          body: ${{ steps.changelog.outputs.content }}
           files: "*.mrpack"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
