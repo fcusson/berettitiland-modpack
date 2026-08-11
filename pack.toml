@@ -1,0 +1,13 @@
+name = "Berettitland"
+author = "Felix Cusson"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "061ed0d0c5bd20b09080dd08431788c92b557976a40d3ff86462c67eb31323ff"
+
+[versions]
+fabric = "0.19.3"
+minecraft = "26.2"

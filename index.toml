@@ -1,0 +1,79 @@
+hash-format = "sha256"
+
+[[files]]
+file = "LICENSE"
+hash = "f962914fc0a952dcb623ac6ca3bbb33c1ca6db611729739cbb4df30ac1373dc4"
+
+[[files]]
+file = "README.md"
+hash = "718c78f58509133a2736970671a240b274442156735cb063ba44dd900d396224"
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "c9f9627be115f45d91c1c47f5b672f58cfcff004954e3cfe5a71f5c1577ec32e"
+metafile = true
+
+[[files]]
+file = "mods/comforts.pw.toml"
+hash = "abe552b7276208dc4f6d6060d76de654af29ff046760fadbb9e658d2a948fd4a"
+metafile = true
+
+[[files]]
+file = "mods/coords-hud.pw.toml"
+hash = "e40e88b85dfa308bdec1b0e5ff1c6f7c1a9fe961e657ff09c63b8af696bcdb6e"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "4ba63364cb1e50db83c7f29144d2c74cee7159d2c3795ac6df267a927ed93198"
+metafile = true
+
+[[files]]
+file = "mods/fallingtree.pw.toml"
+hash = "d4f6289a84d717157a5fd44fb9c4968f8c34d4430cc7970968b24d3d411998fb"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "069d81cab53c0141459ad4d70bcf3e10f17652f24cc62d3b4a0fc2cd2b700871"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "7262c5dea44f3ef66051c5300f498d03ad64f97cc5c920dd04ec8f0ba607bb92"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "a5ee497ec151dd6e6b946091e12e2c56362e5c772c4b8ea175b2e81277cc708d"
+metafile = true
+
+[[files]]
+file = "mods/nether-coords.pw.toml"
+hash = "b5f339dfe069a90becef2f87332cae44d39ffae70db511d8a3b1df96050c4bce"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "a4c435e9a1f73fc2bc34b144e582c2e019d0a3eec99925ddd2aaae727370ea76"
+metafile = true
+
+[[files]]
+file = "mods/shogi.pw.toml"
+hash = "de09925c87906f8b1162b9449dbfa025ce89b5259f62c77075028fcf66de47b4"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "23bd2f19c11a1b0b2870dafd6d5321af3549b22e84149bfd6ff3ff49af388788"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "b0d722aa3b463fddb3a425affdc9e6c898a657040321e8c6501b089d8f7caee2"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "5acddb790e586c36d9db92089b29a3ead91dbc3ff4bdc0e76a7263548d764c53"
+metafile = true
