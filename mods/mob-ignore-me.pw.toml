@@ -1,0 +1,13 @@
+name = "Mob Ignore Me"
+filename = "mobignoreme-1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RPqFuDWl/versions/BtD5YEpa/mobignoreme-1.2.jar"
+hash-format = "sha512"
+hash = "46bd394ed8b6d8a98438a5b2d090c1d32a269e20ab679bdbb48c0e6976519a287d679de46ee739589b9a29d8936d260b4bed8d2362eac1aee9e36a799408029a"
+
+[update]
+[update.modrinth]
+mod-id = "RPqFuDWl"
+version = "BtD5YEpa"
