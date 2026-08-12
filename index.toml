@@ -94,6 +94,11 @@ hash = "5acddb790e586c36d9db92089b29a3ead91dbc3ff4bdc0e76a7263548d764c53"
 metafile = true
 
 [[files]]
+file = "resourcepacks/tooncraft-je-a-wonderfully-adorable-texture-pack.pw.toml"
+hash = "60ce15710caf0d044d5fab68b5c88908efb6dcde43eddc9113d0767439bc966c"
+metafile = true
+
+[[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
 hash = "f91c2ec79366b4607d93928a07c223cbaa4a2e18fe0c110e68a3fc064e69b65a"
 metafile = true

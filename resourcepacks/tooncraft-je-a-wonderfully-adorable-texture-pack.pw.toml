@@ -1,0 +1,13 @@
+name = "ToonCraft JE: A wonderfully adorable texture pack"
+filename = "§aToonCraft §6[v14.0] §f[Demo].zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/3s9kMfHN/versions/FGQnTHGa/%C2%A7aToonCraft%20%C2%A76%5Bv14.0%5D%20%C2%A7f%5BDemo%5D.zip"
+hash-format = "sha512"
+hash = "ce5d08ba3db06782c43ff9daedb1f551040e715ce5f421c50914d4f1560103bbcb954f922aaa95411d64178274e778c3d7b3b735c16bdf8fb7843cbc6a1fc7e3"
+
+[update]
+[update.modrinth]
+mod-id = "3s9kMfHN"
+version = "FGQnTHGa"
