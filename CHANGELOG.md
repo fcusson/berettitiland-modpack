@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## V1.2.0
+
+- Added shader packs
+- Added Tooncraft resource pack
+- Added server details
+
 ## V1.1.3
 
 - Added missing dependency `pneumono-gravestones`
