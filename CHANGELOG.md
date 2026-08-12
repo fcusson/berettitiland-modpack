@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## V1.1.3
+
+- Added missing dependency `pneumono-gravestones`
+
 ## V1.1.2
 
 - Wrong sodium target in previous version
