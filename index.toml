@@ -92,3 +92,18 @@ metafile = true
 file = "mods/waystones.pw.toml"
 hash = "5acddb790e586c36d9db92089b29a3ead91dbc3ff4bdc0e76a7263548d764c53"
 metafile = true
+
+[[files]]
+file = "shaderpacks/bsl-shaders.pw.toml"
+hash = "f91c2ec79366b4607d93928a07c223cbaa4a2e18fe0c110e68a3fc064e69b65a"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "ea258ed5bf495d9017eeadc3cbf9bd67b1e672d843826bc077135548b5bc699e"
+metafile = true
+
+[[files]]
+file = "shaderpacks/sildurs-vibrant-shaders.pw.toml"
+hash = "8b478cddc565e190218616a347e172f3207e184f47ab9cf5fed80d64d6073332"
+metafile = true
