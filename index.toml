@@ -19,6 +19,11 @@ hash = "abe552b7276208dc4f6d6060d76de654af29ff046760fadbb9e658d2a948fd4a"
 metafile = true
 
 [[files]]
+file = "mods/controlify.pw.toml"
+hash = "84ef28e5a74f5dd3c87a9df9cb1366582eb3fa9b6fb75df10948b1d60a20a8e3"
+metafile = true
+
+[[files]]
 file = "mods/coords-hud.pw.toml"
 hash = "e40e88b85dfa308bdec1b0e5ff1c6f7c1a9fe961e657ff09c63b8af696bcdb6e"
 metafile = true
@@ -91,6 +96,11 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "5acddb790e586c36d9db92089b29a3ead91dbc3ff4bdc0e76a7263548d764c53"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "b08ea22923b8ccf2fbeb020cb532487be60c2dd75dd8e1c04e14deb66c118bba"
 metafile = true
 
 [[files]]
