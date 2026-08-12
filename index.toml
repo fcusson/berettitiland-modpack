@@ -29,6 +29,11 @@ hash = "e40e88b85dfa308bdec1b0e5ff1c6f7c1a9fe961e657ff09c63b8af696bcdb6e"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "88467a7bdda3717c87a35e0833daf833d69603794746106ae20c56408bc2f854"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "4ba63364cb1e50db83c7f29144d2c74cee7159d2c3795ac6df267a927ed93198"
 metafile = true
@@ -101,6 +106,26 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "b08ea22923b8ccf2fbeb020cb532487be60c2dd75dd8e1c04e14deb66c118bba"
+metafile = true
+
+[[files]]
+file = "resourcepacks/better-leaves.pw.toml"
+hash = "610e5e08a034d7fdda17d17f37853c1abf19f94425e0a831ced52fccb6ccb063"
+metafile = true
+
+[[files]]
+file = "resourcepacks/default-dark-mode.pw.toml"
+hash = "247d2bc234a9a317f94c4365e05dfe56f470a1dc01b96ad76cc31c935a15289f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/faithful-64x.pw.toml"
+hash = "dc3edbb42181811e5eebb600b8f2c87d5cba00a5102980d982eec7b65a63770a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "213428b7676adfaa1c59fcfe93e6e7f3d0257e236f32a5a245eb0fc966e1b218"
 metafile = true
 
 [[files]]

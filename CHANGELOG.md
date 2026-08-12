@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## V1.3.0
+
+- Added `controlify`
+- Added `default-dark-mode`
+- Added `faithful-64`
+- Added `better-leaves`
+- Added `fresh-animations`
+
 ## V1.2.0
 
 - Added shader packs
