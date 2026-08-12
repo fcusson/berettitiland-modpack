@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## V1.1.2
+
+- Wrong sodium target in previous version
+
 ## V1.1.1
 
 - Updated versions for `sodium` and `iris` for compatibility.
