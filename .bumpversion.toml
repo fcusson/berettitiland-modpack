@@ -1,0 +1,12 @@
+[tool.bumpversion]
+current_version = "1.3.0"
+parse = "(?P<major>\\d+)\\.(?P<minor>\\d+)\\.(?P<patch>\\d+)"
+serialize = ["{major}.{minor}.{patch}"]
+commit = true
+tag = false  # we handle tagging via GitHub Actions
+message = "chore: bump version to {new_version}"
+
+[[tool.bumpversion.files]]
+filename = "pack.toml"
+search = "version = \"{current_version}\""
+replace = "version = \"{new_version}\""

@@ -1,0 +1,5 @@
+version: "3"
+
+tasks:
+  bump:patch:
+    cmd: bump-my-version bump patch

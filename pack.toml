@@ -1,4 +1,7 @@
-name = ""
+name = "Berettitiland"
+author = "Felix Cusson"
+version = "1.3.0"
+icon = "pack.png"
 pack-format = "packwiz:1.1.0"
 
 [index]
