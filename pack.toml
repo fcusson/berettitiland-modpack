@@ -1,13 +1,12 @@
 name = "Berettitiland"
 author = "Felix Cusson"
-version = "1.4.0"
-icon = "pack.png"
+version = "1.5.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "2747f4a5c99cbc1b59dd627d45e3a5f6424588a0feb0756c3cd3ff7b595113dd"
+hash = "9d97066de237211cfd429e24879f430f3be22f8a05b245799ab9b5143010c467"
 
 [versions]
 fabric = "0.19.3"

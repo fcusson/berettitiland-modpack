@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## V1.5.0
+
+- Added `simple-magnets`
+
+## V1.4.0
+
+- Added pack icon
+
 ## V1.3.0
 
 - Added `controlify`

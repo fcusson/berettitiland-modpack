@@ -66,6 +66,7 @@ In the **Modrinth App**, you will need to create a new instance from the updated
 | [Coords HUD](https://modrinth.com/mod/coords-hud)                       | Displays your current coordinates on screen                                   |
 | [Nether Coords](https://modrinth.com/mod/nether-coords)                 | Displays the corresponding overworld coordinates near nether portals          |
 | [Controlify](https://modrinth.com/mod/controlify)                       | Full controller and gamepad support with button remapping                     |
+| [Simple Magnets](https://modrinth.com/mod/simple-magnets) | Experience and block magnet |
 
 ### Resource Packs
 
