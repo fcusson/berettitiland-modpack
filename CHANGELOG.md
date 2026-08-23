@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## V1.6.0
+
+- Added `continuity` and `cit-resewn` for texture pack continuation add-ons
+
 ## V1.5.0
 
 - Added `simple-magnets`

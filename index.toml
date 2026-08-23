@@ -14,8 +14,18 @@ hash = "c9f9627be115f45d91c1c47f5b672f58cfcff004954e3cfe5a71f5c1577ec32e"
 metafile = true
 
 [[files]]
+file = "mods/cit-resewn-continuation.pw.toml"
+hash = "bfa62f4186537e29c5e554572ccc2e93f1d9d841044da125e80cb4174063a936"
+metafile = true
+
+[[files]]
 file = "mods/comforts.pw.toml"
 hash = "abe552b7276208dc4f6d6060d76de654af29ff046760fadbb9e658d2a948fd4a"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "57ec34a7f37b99e4638f5214d1de0bef916e981743d3648c57cad1e8e399982b"
 metafile = true
 
 [[files]]
