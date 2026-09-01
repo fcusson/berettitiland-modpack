@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## V1.6.1
+
+- Bumped to new versions of mod since fabric-api update.
+
 ## V1.6.0
 
 - Added `continuity` and `cit-resewn` for texture pack continuation add-ons
